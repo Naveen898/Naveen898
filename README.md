@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">A passionate developer, who loves Data, Cloud, Cybersecurity and Application Development</h3>
+<h3 align="center">A passionate developer, who loves Cloud, Cybersecurity and Application Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen898" alt="naveen898" /></a> </p>
 
