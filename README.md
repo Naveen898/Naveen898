@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Naveen, a Cloud and Cybersecurity Enthusiast🛡️🚀 and a part-time DevSecOps and Application Developer 💻
+I'm Naveen, a Cloud and Cybersecurity Enthusiast🛡️ and a part-time DevSecOps and Application Developer 💻
 
 
 ## 🌐 Socials:
